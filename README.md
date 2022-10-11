@@ -1,2 +1,2 @@
 # TADS-PUCPR
-trabalhos do curso de analise de sistemas da pucpr
+trabalhos do curso de análise de sistemas da pucpr
